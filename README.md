@@ -1,6 +1,6 @@
 # JioLeh
 
-
+![HomeScreenSmall](https://user-images.githubusercontent.com/66818697/126858197-ef5c51e2-0313-4006-a479-1099c0a8fa51.png)  ![siwpeGamers](https://user-images.githubusercontent.com/66818697/126858139-b9533896-457c-45d8-8d40-58b6fb0e59ba.gif)
 
 ## Aim
 JioLeh aims to provide a platform for gamers to communicate and interact with others during this trying time when we cannot go out to meet our friends.
@@ -19,7 +19,7 @@ schedules and interests.
 ## What's next for JioLeh
 JioLeh hopes to expand and provide more opportunities for connecting with other users for other activities such as cycling or various interest groups. 
 We aim to build a recommendation engine that can efficiently link users based on the similarities of their profiles and interests. We also hope to add 
-in discord API to better connect gamers
+in discord API to better connect gamers.
 
 ## Links
 * [Pitch Deck](https://docs.google.com/presentation/d/1ovHcNZ1OEvIcRvyEc_V97G5X47kgRYvh9blsKLs1WLc/edit?usp=sharing)
@@ -32,4 +32,4 @@ in discord API to better connect gamers
 * [Chloe Seah](https://github.com/chloesyy)
 
 ## Acknowledgements
-This project was done under LifeHack Hackathon 2021
+This project was done under LifeHack Hackathon 2021.
